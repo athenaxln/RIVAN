@@ -17,3 +17,4 @@ PING RESULTS
 **ISPs & DNS (I1,I2,I3 & GoogleDNS)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cc5bda05-ed12-4ed1-a39b-d904a185c84c" />
 
+
