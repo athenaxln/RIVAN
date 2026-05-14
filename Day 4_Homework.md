@@ -1,19 +1,19 @@
-Day 3: Routing Configurations
+Day 4: Cybersecurity and Hacking
 
-PING RESULTS 
-
-**End Hosts (P1,P2,S1 & S2)
-<img width="1920" height="1080" alt="image" src="https://github.com/athenaxln/RIVAN/blob/main/End%20hosts.png" />
-
-
-**Switches (A1,A2,D1 & D2)
-<img width="1920" height="1080" alt="image" src="https://github.com/athenaxln/RIVAN/blob/main/Switches.png" />
+**Task 1: (Create ACL for NGFW6)
+bet10.com - dns,http,https
+bet11.com - telnet,ssh
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/09061873-6650-421a-a80a-3767bbb55fd8" />
 
 
-**Routers (R1,R2,R3 & R4)
-<img width="1920" height="1080" alt="image" src="https://github.com/athenaxln/RIVAN/blob/main/Routers.png" />
+**Task 2: (Cisco Paren, Python via Redhat Linux, Docker + nmap)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c21e0d6-7726-448d-bd67-9c560425b0c5" />
 
 
-**ISPs & DNS (I1,I2,I3 & GoogleDNS)
-<img width="1920" height="1080" alt="image" src="https://github.com/athenaxln/RIVAN/blob/main/ISPs.png" />
+**Task 3: (Loopbacks creation via Postman API Integration)
+          -- Basic Authentication Applied
+<img width="1906" height="961" alt="image" src="https://github.com/user-attachments/assets/e3a3d92d-2f67-4cc8-8a47-c5489497ddd7" />
+
+
+
 
