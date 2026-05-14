@@ -2,7 +2,7 @@ Day 4: Cybersecurity and Hacking
 
 **Task 1: (Create ACL for NGFW6) 
           -- bet10.com - dns,http,https
-          -- bet11.com - telnet,ssh
+          /-- bet11.com - telnet,ssh
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/09061873-6650-421a-a80a-3767bbb55fd8" />
 
 
