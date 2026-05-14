@@ -3,7 +3,7 @@ Day 3: Routing Configurations
 PING RESULTS 
 
 **End Hosts (P1,P2,S1 & S2)
-<img width="1920" height="1080" alt="image" src="https://github.com/athenaxln/RIVAN/blob/main/End%20hosts.png" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cc691155-9e84-4af2-9a29-e862c619d00f" />
 
 
 **Switches (A1,A2,D1 & D2)
